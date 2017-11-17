@@ -5,6 +5,8 @@ Class to search Portuguese Zip Code
 ```
 require_once('class.ctt.php');
 
+$findctt = new CTTpostalfind();
+
 $findctt->setCodpos('4000-407');
 
 $result = $findctt->search('all', false);
