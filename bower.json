@@ -1,0 +1,20 @@
+{
+  "name": "cttpostalfind",
+  "version": "2.0.0",
+  "description": "Class to search Portuguese Zip Code",
+  "authors": [
+    "Joao Reis <web@joaoreis.pt>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ctt"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
